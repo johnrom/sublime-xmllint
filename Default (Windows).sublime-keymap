@@ -1,0 +1,7 @@
+[
+    {
+        "keys": ["ctrl+alt+j"],
+        "__doc__": "Run XMLLint",
+        "command": "xml_doc"
+    }
+]

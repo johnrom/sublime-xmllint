@@ -1,0 +1,26 @@
+{
+    // Path to the xmllint executable
+    // Leave blank to use PATH
+    "xmllint_exec": "",
+
+    // Options pass to xmllint (none yet :[)
+    // "xmllint_options": "",
+
+    // Ignore errors, regex (not config'd yet)
+    /*"ignore_errors":
+    [
+        ...
+    ],*/
+
+    // run xmllint on save
+    "run_on_save": true,
+
+    // debug flag.
+    "debug": false,
+
+    "args":
+    [
+        "--noout",
+        "--valid"
+    ]
+}
